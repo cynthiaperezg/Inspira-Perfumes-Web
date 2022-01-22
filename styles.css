@@ -1,0 +1,27 @@
+html {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0 auto;
+}
+
+body{
+    margin: 0 auto;
+}
+
+.title {
+    color: white;
+    text-align: center;
+    background-color: darkblue;
+}
+
+h2 {
+    color:royalblue;
+}
+
+.centertitle {
+    text-align: center;
+    font-weight: bold;
+}
+
+.boldh {
+    font-weight: bold;
+}
